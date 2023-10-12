@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator using C++ Qt
+Calculator using C++ Qt
